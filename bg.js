@@ -1,11 +1,11 @@
 const RANDOM_BG_ENABLED = true;
 const DEFAULT_BG = 10;
+const BG_DIR = '/home/opdavi1/Desktop/Wallpapers' //relative or absolute path to the folder with the bg images in it NO '/' AT THE END OF THE PATH
 
 /////////////////////////////////////////////
 
 const bg_list = 
     [
-        'dark-souls.jpg',
         'highway_nighttime.png',
         'Nerv.png',
         'nighttime-anime-girl.jpg',
@@ -21,7 +21,7 @@ const bg_list =
     ];
 
 function setBg(i) {
-    document.body.style.backgroundImage = `url(./bg/${bg_list[i]})`;
+    document.body.style.backgroundImage = `url(${BG_DIR}/${bg_list[i]})`;
 }
 
 if(RANDOM_BG_ENABLED) {
