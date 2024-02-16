@@ -1,5 +1,5 @@
 const RANDOM_BG_ENABLED = true;
-const DEFAULT_BG = 6;
+const DEFAULT_BG = 10;
 
 /////////////////////////////////////////////
 
