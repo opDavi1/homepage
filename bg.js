@@ -1,6 +1,6 @@
 const RANDOM_BG_ENABLED = true;
 const DEFAULT_BG = 10;
-const BG_DIR = '/home/opdavi1/Desktop/Wallpapers' //relative or absolute path to the folder with the bg images in it NO '/' AT THE END OF THE PATH
+const BG_DIR = './bg' //relative or absolute path to the folder with the bg images in it NO '/' AT THE END OF THE PATH
 
 /////////////////////////////////////////////
 
