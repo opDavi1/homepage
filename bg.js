@@ -7,7 +7,6 @@ const BG_DIR = './bg' //relative or absolute path to the folder with the bg imag
 const bg_list = 
     [
         'highway_nighttime.png',
-        'Nerv.png',
         'nighttime-anime-girl.jpg',
         'rei.png',
         'rip-brian.jpg',
@@ -17,7 +16,11 @@ const bg_list =
         'spring-path.jpg',
         'sunset-train-station.jpg',
         'girls-last-tour.jpg',
-        'femboys.png'
+        'femboys.png',
+        'ca-sunset.jpeg',
+        'japan-store.jpeg',
+        'rooftops.jpg',
+        'train-station.jpeg'
     ];
 
 function setBg(i) {
