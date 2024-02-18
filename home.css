@@ -32,7 +32,7 @@ body {
 }
 
 .title h1{
-    font-family: DotGothic16, sans-serif;
+    font-family: DotGothic16, monospace, sans-serif;
     font-size: 1.75em;
     color:white;
 }
@@ -50,6 +50,7 @@ body {
 .search-bar input {
     width: 33vw;
     height: 3vh;
+    font-family: VT323, monspace, sans-serif;
     font-size: 1em;
     padding-left: 1em;
     border-radius: 15px;
@@ -69,7 +70,7 @@ body {
     border-radius: 15px;
     padding: 5px;
     margin-top: 1vh;
-    font-family: VT323, sans-serif;
+    font-family: VT323, monospace, sans-serif;
     font-size: 1em;
 }
 
