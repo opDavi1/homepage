@@ -20,7 +20,8 @@ const bg_list =
         'ca-sunset.jpeg',
         'japan-store.jpeg',
         'rooftops.jpg',
-        'train-station.jpeg'
+        'train-station.jpeg',
+        'ebic.jpg'
     ];
 
 function setBg(i) {
