@@ -24,12 +24,14 @@ body {
     background-position: center;
 }
 
-.title {
-    position: relative;
+.center {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    top: 30vh;
+}
+
+.title {
+    margin-top: 30vh;
 }
 
 .title h1 span {
@@ -42,6 +44,22 @@ body {
     font-family: VT323, DotGothic16, monospace, sans-serif;
     font-size: 1.75em;
     color:white;
+}
+
+.splash {
+    margin-top: 5vh;
+}
+
+.splash h2 {
+    font-family: VT323, DotGothic16, monospace, sans-serif;
+    font-size: 1.25em;
+    color:white;
+}
+
+.splash h2 span {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 0.25em;
+    border-radius: 5px;
 }
 
 .search-bar {
