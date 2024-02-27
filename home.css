@@ -1,11 +1,16 @@
 @font-face {
-    font-family: VT323;
-    src: url('./fonts/VT323-Regular.ttf');
+    font-family: ArchivoBlack;
+    src: url('./fonts/ArchivoBlack-Regular.ttf');
 }
 
 @font-face {
-    font-family: DotGothic16;
-    src: url('./fonts/DotGothic16-Regular.ttf');
+    font-family: Kosugi;
+    src: url('./fonts/Kosugi-Regular.ttf');
+}
+
+@font-face {
+    font-family: RubikMono;
+    src: url('./fonts/RubikMonoOne-Regular.ttf');
 }
 
 html, body {
@@ -35,13 +40,13 @@ body {
 }
 
 .title h1 span {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.8);
     padding: 0.25em;
     border-radius: 5px;
 }
 
 .title h1{
-    font-family: VT323, DotGothic16, monospace, sans-serif;
+    font-family: ArchivoBlack, Kosugi, RubikMono, monospace, sans-serif;
     font-size: 1.75em;
     color:white;
 }
@@ -51,13 +56,13 @@ body {
 }
 
 .splash h2 {
-    font-family: VT323, DotGothic16, monospace, sans-serif;
-    font-size: 1.25em;
+    font-family: ArchivoBlack, Kosugi, RubikMono, monospace, sans-serif;
+    font-size: 1em;
     color:white;
 }
 
 .splash h2 span {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.8);
     padding: 0.25em;
     border-radius: 5px;
 }
@@ -75,13 +80,13 @@ body {
 .search-bar input {
     width: 33vw;
     height: 3vh;
-    font-family: VT323, DotGothic16, monspace, sans-serif;
+    font-family: ArchivoBlack, Kosugi, RubikMono, monospace, sans-serif;
     font-size: 1em;
     padding-left: 1em;
     border-radius: 15px;
     border: none;
     color: white;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 .search-bar input:focus {
@@ -91,12 +96,12 @@ body {
 .nav {
     position: relative;
     top: 0%;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.8);
     border-radius: 15px;
     padding: 5px;
     margin-top: 1vh;
-    font-family: VT323, monospace, sans-serif;
-    font-size: 1em;
+    font-family: ArchivoBlack, Kosugi, RubikMono, monospace, sans-serif;
+    font-size: 0.75em;
 }
 
 .nav a {

@@ -17,8 +17,7 @@ const bg_list =
         'japan-store.jpeg',
         'rooftops.jpg',
         'train-station.jpeg',
-        'ebic.jpg',
-        'cyberpunk.jpg',
+        'ebic.jpg'
     ];
 
 //////// DO NOT EDIT BELOW LINE (unless you want to, of course) ///////////
