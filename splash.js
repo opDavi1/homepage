@@ -2,6 +2,11 @@ const SPLASH_ENABLED = true; //set to false to disable random splash text.
 const splash = document.getElementById('splash');
 const quotes = [
     'Thanks for stopping by',
+    'SINGLE PLAYER TARKOV 3.0 FINALLY CAME OUT LETS GO',
+    'Now let\'s see opDavi1 in shorts',
+    'thigh highs are so comfy',
+    ':3c',
+    '>:3',
     'Joe mom',
     '/b/ sucks today',
     'le sigh',
