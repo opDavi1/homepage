@@ -4,20 +4,20 @@ const BG_DIR = './bg' //relative or absolute path to the folder with the bg imag
 const bg_list = 
     [
         'highway_nighttime.png',
-        'nighttime-anime-girl.jpg',
         'rei.png',
         'saturn.png',
         'smoking-anime-girl.jpg',
-        'space-cowboy.jpg',
         'spring-path.jpg',
         'sunset-train-station.jpg',
         'girls-last-tour.jpg',
-        'femboys.png',
         'ca-sunset.jpeg',
-        'japan-store.jpeg',
         'rooftops.jpg',
-        'train-station.jpeg',
-        'ebic.jpg'
+        'ebic.jpg',
+        'berry-bush.jpg',
+        'concrete-building.jpg',
+        'building.jpg',
+        '49.jpg',
+        'winter-bridge.jpg'
     ];
 
 //////// DO NOT EDIT BELOW LINE (unless you want to, of course) ///////////
