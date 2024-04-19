@@ -83,7 +83,7 @@ const quotes = [
     '1.7.10 - 1.12 is peak minecraft',
     'My headphones plugged out!',
     'I never said that I was sad, but I remember it all',
-    'I Miss The Rage!',
+    'I Miss The Rage',
     'When you see "seeding" just click stop',
     'p2p ft ftw ',
     'Cake at steak!',
@@ -102,7 +102,6 @@ const quotes = [
     "Harder, Better, Faster, Stronger",
     "She a superstar girl, ah, from the valley",
     "Did you realize, that you were a champion in their eyes?",
-    "Young Nudy, Playboi Carti, Pi'erre Bourne - Pissy Pamper",
     "I can't stand to see you cry",
     "Yo Pi'erre, you wanna come out here?",
     "If young metro don't trust you I'm gon' shoot you",
@@ -110,7 +109,9 @@ const quotes = [
     "It's all in your mental",
     "For real, for real, for real this time",
     "Vrei sǎ pleci Dar nu mǎ, nu mǎ iei",
-    "Time: The Donut of the Heart"
+    "Time: The Donut of the Heart",
+    "I don't think it's ironic anymore guys",
+    "I LOVE FEMBOYS SO MUCH HOLY SHIT"
 ]
 
 if(SPLASH_ENABLED) {
