@@ -11,6 +11,8 @@
 ```console
 git clone https://github.com/opDavi1/homepage.git --depth=1
 ```
+OR by clicking the green `Code` button at the top and clicking `Download ZIP`
+
 2. Simply set your web browser's custom homepage URL to the URL of the file. The URL of the file should start with something like `file:///`.
 
 ---
