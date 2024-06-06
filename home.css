@@ -69,6 +69,10 @@ body {
     border-radius: 15px;
 }
 
+.splash h2 span:hover {
+	cursor: pointer;
+}
+
 .search-bar {
     display: grid;
     justify-content: center;

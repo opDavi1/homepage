@@ -126,8 +126,12 @@ const quotes = [
 	"NO ANON!!! DON'T GO ON /TTTT/ YOU'LL NEVER COME OUT ALIVE!!!"
 ]
 
-if(SPLASH_ENABLED) {
+function setSplash() {
     splash.innerHTML = quotes[quotes.length * Math.random() | 0];
+}
+
+if(SPLASH_ENABLED) {
+	setSplash();
 } else {
     splash.remove();
 }
