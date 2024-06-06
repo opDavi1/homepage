@@ -33,6 +33,7 @@ const quotes = [
     'ザーワルド！！！',
     'ドドドドドドドド',
     'こんにちは',
+	'お兄ちゃん、おはよう',
     'Oi, Josuke',
     'Caesar!!!!!!!!!!!!',
     'uwO what\'s this',
@@ -111,7 +112,18 @@ const quotes = [
     "Vrei sǎ pleci Dar nu mǎ, nu mǎ iei",
     "Time: The Donut of the Heart",
     "I don't think it's ironic anymore guys",
-    "I LOVE FEMBOYS SO MUCH HOLY SHIT"
+    "I LOVE FEMBOYS SO MUCH HOLY SHIT",
+	"This has been willed where what is willed must be, and is not yours to question. Say no more.",
+	"Abondon all hope, Ye who enter in!",
+	"Jump in darling, the water is sublime",
+	"I can see my house from here!",
+	"Life's better with gold on your balls",
+	"Time is an illusion, Lunchtime doubly so.",
+	"Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space.",
+	"Ford... you're turning into a penguin. Stop it.",
+	"So long, and thanks for all the fish",
+	"This must be thursday ... I could never get the hang od Thursdays",
+	"NO ANON!!! DON'T GO ON /TTTT/ YOU'LL NEVER COME OUT ALIVE!!!"
 ]
 
 if(SPLASH_ENABLED) {
